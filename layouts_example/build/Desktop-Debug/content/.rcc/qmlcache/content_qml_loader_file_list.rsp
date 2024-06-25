@@ -1,0 +1,6 @@
+--resource
+/home/brainey/Sources/github/brainey/qml-stuff/layouts_example/build/Desktop-Debug/content/.qt/rcc/qmake_content.qrc
+--resource
+/home/brainey/Sources/github/brainey/qml-stuff/layouts_example/build/Desktop-Debug/content/.qt/rcc/content_raw_qml_0.qrc
+/qt/qml/content/App.qml
+/qt/qml/content/Screen01.ui.qml

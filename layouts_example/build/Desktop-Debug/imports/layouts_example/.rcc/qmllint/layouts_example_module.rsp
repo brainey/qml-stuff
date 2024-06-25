@@ -1,0 +1,12 @@
+-I
+/home/brainey/Sources/github/brainey/qml-stuff/layouts_example/build/Desktop-Debug/qml
+-I
+/home/brainey/Sources/github/brainey/qml-stuff/layouts_example/build/Desktop-Debug/qml
+-I
+/usr/./qml
+--resource
+/home/brainey/Sources/github/brainey/qml-stuff/layouts_example/build/Desktop-Debug/imports/layouts_example/.qt/rcc/qmake_layouts_example.qrc
+--resource
+/home/brainey/Sources/github/brainey/qml-stuff/layouts_example/build/Desktop-Debug/imports/layouts_example/.qt/rcc/layouts_example_raw_qml_0.qrc
+--module
+layouts_example

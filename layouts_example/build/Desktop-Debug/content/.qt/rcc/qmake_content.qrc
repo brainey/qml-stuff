@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/content">
+    <file alias="qmldir">/home/brainey/Sources/github/brainey/qml-stuff/layouts_example/build/Desktop-Debug/qml/content/qmldir</file>
+  </qresource>
+</RCC>
+

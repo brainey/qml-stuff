@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qt/qml/layouts_example/">
+    <file alias="Constants.qml">/home/brainey/Sources/github/brainey/qml-stuff/layouts_example/imports/layouts_example/Constants.qml</file>
+    <file alias="DirectoryFontLoader.qml">/home/brainey/Sources/github/brainey/qml-stuff/layouts_example/imports/layouts_example/DirectoryFontLoader.qml</file>
+    <file alias="EventListModel.qml">/home/brainey/Sources/github/brainey/qml-stuff/layouts_example/imports/layouts_example/EventListModel.qml</file>
+    <file alias="EventListSimulator.qml">/home/brainey/Sources/github/brainey/qml-stuff/layouts_example/imports/layouts_example/EventListSimulator.qml</file>
+  </qresource>
+</RCC>
+

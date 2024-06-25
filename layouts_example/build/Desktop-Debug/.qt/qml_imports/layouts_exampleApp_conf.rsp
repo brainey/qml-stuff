@@ -1,0 +1,15 @@
+-rootPath
+/home/brainey/Sources/github/brainey/qml-stuff/layouts_example
+-cmake-output
+-output-file
+/home/brainey/Sources/github/brainey/qml-stuff/layouts_example/build/Desktop-Debug/.qt/qml_imports/layouts_exampleApp_conf.cmake
+-importPath
+/home/brainey/Sources/github/brainey/qml-stuff/layouts_example/build/Desktop-Debug/qml/Main
+-importPath
+/home/brainey/Sources/github/brainey/qml-stuff/layouts_example/build/Desktop-Debug/qml
+-importPath
+/usr/./qml
+-qrcFiles
+/home/brainey/Sources/github/brainey/qml-stuff/layouts_example/build/Desktop-Debug/.qt/rcc/configuration.qrc
+/home/brainey/Sources/github/brainey/qml-stuff/layouts_example/build/Desktop-Debug/.qt/rcc/qmake_Main.qrc
+/home/brainey/Sources/github/brainey/qml-stuff/layouts_example/build/Desktop-Debug/.qt/rcc/layouts_exampleApp_raw_qml_0.qrc

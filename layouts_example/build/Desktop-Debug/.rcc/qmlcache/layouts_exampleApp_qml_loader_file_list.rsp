@@ -1,0 +1,7 @@
+--resource
+/home/brainey/Sources/github/brainey/qml-stuff/layouts_example/build/Desktop-Debug/.qt/rcc/configuration.qrc
+--resource
+/home/brainey/Sources/github/brainey/qml-stuff/layouts_example/build/Desktop-Debug/.qt/rcc/qmake_Main.qrc
+--resource
+/home/brainey/Sources/github/brainey/qml-stuff/layouts_example/build/Desktop-Debug/.qt/rcc/layouts_exampleApp_raw_qml_0.qrc
+/qt/qml/Main/main.qml

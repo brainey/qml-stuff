@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="qtquickcontrols2.conf">/home/brainey/Sources/github/brainey/qml-stuff/layouts_example/qtquickcontrols2.conf</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,10 @@
+layouts_exampleplugin_init_autogen/timestamp: \
+	/home/brainey/Sources/github/brainey/qml-stuff/layouts_example/build/Desktop-Debug/imports/layouts_example/layouts_exampleplugin_init.cpp \
+	/home/brainey/Sources/github/brainey/qml-stuff/layouts_example/build/Desktop-Debug/imports/layouts_example/layouts_exampleplugin_layouts_examplePlugin_in.cpp \
+	/home/brainey/Sources/github/brainey/qml-stuff/layouts_example/imports/layouts_example/CMakeLists.txt \
+	/usr/lib/x86_64-linux-gnu/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in \
+	/usr/lib/x86_64-linux-gnu/cmake/Qt6Core/Qt6CoreResourceInit.in.cpp \
+	/usr/lib/x86_64-linux-gnu/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in \
+	/usr/lib/x86_64-linux-gnu/cmake/Qt6Qml/Qt6QmlPluginTemplate.cpp.in \
+	/usr/lib/x86_64-linux-gnu/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in \
+	/usr/bin/cmake

@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qt/qml/content/">
+    <file alias="App.qml">/home/brainey/Sources/github/brainey/qml-stuff/layouts_example/content/App.qml</file>
+    <file alias="Screen01.ui.qml">/home/brainey/Sources/github/brainey/qml-stuff/layouts_example/content/Screen01.ui.qml</file>
+    <file alias="fonts/fonts.txt">/home/brainey/Sources/github/brainey/qml-stuff/layouts_example/content/fonts/fonts.txt</file>
+  </qresource>
+</RCC>
+

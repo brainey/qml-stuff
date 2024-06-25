@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/Main">/home/brainey/Sources/github/brainey/qml-stuff/layouts_example/build/Desktop-Debug/qml/Main</file>
+
+  </qresource>
+</RCC>

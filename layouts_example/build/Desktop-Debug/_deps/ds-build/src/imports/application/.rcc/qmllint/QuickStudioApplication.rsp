@@ -1,0 +1,9 @@
+--bare
+-I
+/home/brainey/Sources/github/brainey/qml-stuff/layouts_example/build/Desktop-Debug/qml
+-I
+/home/brainey/Sources/github/brainey/qml-stuff/layouts_example/build/Desktop-Debug/qml
+-I
+/usr/./qml
+--resource
+/home/brainey/Sources/github/brainey/qml-stuff/layouts_example/build/Desktop-Debug/_deps/ds-build/src/imports/application/.qt/rcc/qmake_QtQuick_Studio_Application.qrc

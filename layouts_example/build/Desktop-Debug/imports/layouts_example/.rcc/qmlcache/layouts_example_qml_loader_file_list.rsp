@@ -1,0 +1,8 @@
+--resource
+/home/brainey/Sources/github/brainey/qml-stuff/layouts_example/build/Desktop-Debug/imports/layouts_example/.qt/rcc/qmake_layouts_example.qrc
+--resource
+/home/brainey/Sources/github/brainey/qml-stuff/layouts_example/build/Desktop-Debug/imports/layouts_example/.qt/rcc/layouts_example_raw_qml_0.qrc
+/qt/qml/layouts_example/Constants.qml
+/qt/qml/layouts_example/DirectoryFontLoader.qml
+/qt/qml/layouts_example/EventListModel.qml
+/qt/qml/layouts_example/EventListSimulator.qml

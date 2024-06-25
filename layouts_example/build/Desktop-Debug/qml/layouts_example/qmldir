@@ -1,0 +1,11 @@
+module layouts_example
+linktarget layouts_exampleplugin
+optional plugin layouts_exampleplugin
+classname layouts_examplePlugin
+typeinfo layouts_example.qmltypes
+prefer :/qt/qml/layouts_example/
+singleton Constants 1.0 Constants.qml
+DirectoryFontLoader 1.0 DirectoryFontLoader.qml
+EventListModel 1.0 EventListModel.qml
+EventListSimulator 1.0 EventListSimulator.qml
+
