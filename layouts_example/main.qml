@@ -17,16 +17,32 @@ Window {
 
     RowLayout {
         anchors.fill: parent
+        spacing: 0
         Rectangle {
             Layout.fillWidth: true
             Layout.preferredHeight: 50
             color: "blue"
+            Text {
+                text: parent.width
+                color: "white"
+                anchors.centerIn: parent
+                font.pixelSize: 30
+            }
         }
 
-        Text {
-            // Layout.fillWidth: true
-            text: "Hello"
-            font.pixelSize: 30
+        Rectangle {
+            Layout.fillWidth: true
+            Layout.preferredHeight: 50
+            color: "red"
+            Text {
+                text: parent.width
+                color: "white"
+                anchors.centerIn: parent
+                font.pixelSize: 30
+                font.bold: true
+            }
         }
     }
 }
+// text: "Hello"
+// font.pixelSize: 30
