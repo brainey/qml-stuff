@@ -7,9 +7,28 @@ import QtQuick
 // App {
 // }
 
+import QtQuick.Layouts
+
 Window {
     width: 640
     height: 480
     visible: true
     title: qsTr("Hello World")
+
+    RowLayout {
+        anchors.fill: parent
+        Rectangle {
+            Layout.fillWidth: true
+            Layout.fillHeight: true
+            color: "blue"
+            // implicitWidth: 50
+            // implicitHeight: 50
+        }
+
+        Text {
+            // Layout.fillWidth: true
+            text: "Hello"
+            font.pixelSize: 30
+        }
+    }
 }
