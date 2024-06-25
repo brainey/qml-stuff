@@ -21,7 +21,7 @@ Window {
         Rectangle {
             Layout.fillWidth: true
             Layout.preferredHeight: 50
-            // Layout.minimumWidth:
+            Layout.minimumWidth: 80
             Layout.maximumWidth: 200
             color: "blue"
             Text {
@@ -35,6 +35,7 @@ Window {
         Rectangle {
             Layout.fillWidth: true
             Layout.preferredHeight: 50
+            Layout.minimumWidth: 30
             color: "red"
             Text {
                 text: parent.width
