@@ -19,10 +19,8 @@ Window {
         anchors.fill: parent
         Rectangle {
             Layout.fillWidth: true
-            Layout.fillHeight: true
+            Layout.preferredHeight: 50
             color: "blue"
-            // implicitWidth: 50
-            // implicitHeight: 50
         }
 
         Text {
