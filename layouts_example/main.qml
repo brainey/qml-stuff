@@ -20,7 +20,7 @@ Window {
         spacing: 0
         Rectangle {
             Layout.fillWidth: true
-            Layout.preferredWidth: 100
+            Layout.preferredWidth: parent.width / 3
             Layout.preferredHeight: 50
             // Layout.minimumWidth: 80
             // Layout.maximumWidth: 200
@@ -35,7 +35,7 @@ Window {
 
         Rectangle {
             Layout.fillWidth: true
-            Layout.preferredWidth: 200
+            Layout.preferredWidth: parent.width * 2 / 3
             Layout.preferredHeight: 50
             // Layout.minimumWidth: 30
             color: "red"
@@ -48,9 +48,6 @@ Window {
             }
         }
 
-        // Item {
-        //     Layout.fillWidth: true
-        // }
     }
 }
 // text: "Hello"
