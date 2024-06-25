@@ -23,7 +23,7 @@ Window {
             Layout.preferredWidth: parent.width / 3
             Layout.preferredHeight: 50
             // Layout.minimumWidth: 80
-            // Layout.maximumWidth: 200
+            Layout.maximumWidth: 500
             color: "blue"
             Text {
                 text: parent.width
@@ -38,6 +38,7 @@ Window {
             Layout.preferredWidth: parent.width * 2 / 3
             Layout.preferredHeight: 50
             // Layout.minimumWidth: 30
+            Layout.maximumWidth: 500
             color: "red"
             Text {
                 text: parent.width
@@ -48,6 +49,9 @@ Window {
             }
         }
 
+        Item {
+            Layout.fillWidth: true
+        }
     }
 }
 // text: "Hello"
